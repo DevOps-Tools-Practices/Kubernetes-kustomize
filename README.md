@@ -6,7 +6,7 @@ Basic example to understand kustomize
 1. Move to this Directory demo-app/kustomize
 
 ```
-cd demo-app-kustomize
+cd demo-app/kustomize
 ```
 
 2. Run apply command:
